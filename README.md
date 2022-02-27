@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sefaagokk
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sefaagokk@gmail.com
 
